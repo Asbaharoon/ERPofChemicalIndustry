@@ -1,0 +1,105 @@
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\bin\Debug\printreports.exe.config
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\bin\Debug\printreports.exe
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\bin\Debug\printreports.pdb
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\printreports.cwss.resources
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\printreports.exe
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\printreports.pdb
+C:\Users\smith\documents\visual studio 2010\Projects\printreports\printreports\obj\x86\Debug\printreports.sisl.resources
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.pdb
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.pdb
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.csprojResolveAssemblyReference.cache
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.cwss.resources
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.sisl.resources
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.csproj.GenerateResource.Cache
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.ail.resources
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.exe.config
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.exe
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.pdb
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.dll.config
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.dll
+G:\Users\onyx\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.dll
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.exe
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.pdb
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.ail.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.cwss.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.sisl.resources
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\project2013\PrintReport\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.exe.config
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.exe
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.pdb
+D:\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.exe
+D:\Printreport 17 Apr\printreports\printreports\bin\Debug\printreports.pdb
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.ail.resources
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.cwss.resources
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\printreports.sisl.resources
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Printreport 17 Apr\printreports\printreports\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Printreport 17 Apr Partial\printreports\printreports\bin\Debug\printreports.exe.config
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.exe
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.pdb
+D:\Printreport 17 Apr Partial\printreports\printreports\bin\Debug\printreports.exe
+D:\Printreport 17 Apr Partial\printreports\printreports\bin\Debug\printreports.pdb
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.ail.resources
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.cwss.resources
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\printreports.sisl.resources
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Printreport 17 Apr Partial\printreports\printreports\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\bin\Debug\printreports.exe.config
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.exe
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.pdb
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.ail.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.cwr.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.cwss.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\printreports.sisl.resources
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\bin\Debug\printreports.exe
+D:\Dropbox\project2013\Project Final\sisl & cwr\printreports(sisl)\printreports\bin\Debug\printreports.pdb
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\bin\Debug\printreports.exe.config
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\bin\Debug\printreports.exe
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\bin\Debug\printreports.pdb
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.csprojResolveAssemblyReference.cache
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.ail.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.cwr.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.cwss.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.mgr.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.sisl.resources
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.csproj.GenerateResource.Cache
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.exe
+G:\Users\onyx\Dropbox\project2013\Project Final\sisl & cwr\printreports(Final)\printreports\obj\x86\Debug\printreports.pdb
+D:\ERP with my management\printreports(Final)\printreports\bin\Debug\printreports.exe.config
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.exe
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.pdb
+D:\ERP with my management\printreports(Final)\printreports\bin\Debug\printreports.exe
+D:\ERP with my management\printreports(Final)\printreports\bin\Debug\printreports.pdb
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.ail.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.cwr.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.cwss.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.mgr.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.Properties.Resources.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.sisl.resources
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.csproj.GenerateResource.Cache
+D:\ERP with my management\printreports(Final)\printreports\obj\x86\Debug\printreports.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\source code\printreports(Final)\printreports\bin\Debug\printreports.exe.config
+C:\Users\user\Desktop\source code\printreports(Final)\printreports\obj\x86\Debug\printreports.exe
+C:\Users\user\Desktop\source code\printreports(Final)\printreports\obj\x86\Debug\printreports.pdb

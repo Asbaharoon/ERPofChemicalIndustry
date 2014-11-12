@@ -1,0 +1,96 @@
+D:\drop\Dropbox\project2013\11feb\grn\grn\bin\Debug\grn.exe
+D:\drop\Dropbox\project2013\11feb\grn\grn\bin\Debug\grn.pdb
+D:\drop\Dropbox\project2013\11feb\grn\grn\obj\x86\Debug\grn.Form1.resources
+D:\drop\Dropbox\project2013\11feb\grn\grn\obj\x86\Debug\grn.Properties.Resources.resources
+D:\drop\Dropbox\project2013\11feb\grn\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+D:\drop\Dropbox\project2013\11feb\grn\grn\obj\x86\Debug\grn.exe
+D:\drop\Dropbox\project2013\11feb\grn\grn\obj\x86\Debug\grn.pdb
+E:\11feb\grn\grn\obj\x86\Debug\grn.exe
+E:\11feb\grn\grn\obj\x86\Debug\grn.pdb
+E:\11feb\grn\grn\bin\Debug\grn.exe
+E:\11feb\grn\grn\bin\Debug\grn.pdb
+E:\11feb\grn\grn\obj\x86\Debug\grn.Form1.resources
+E:\11feb\grn\grn\obj\x86\Debug\grn.Properties.Resources.resources
+E:\11feb\grn\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+E:\11feb\grn\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+I:\11feb\grn\grn\obj\x86\Debug\grn.exe
+I:\11feb\grn\grn\obj\x86\Debug\grn.pdb
+I:\11feb\grn\grn\bin\Debug\grn.exe
+I:\11feb\grn\grn\bin\Debug\grn.pdb
+I:\11feb\grn\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+I:\11feb\grn\grn\obj\x86\Debug\grn.Form1.resources
+I:\11feb\grn\grn\obj\x86\Debug\grn.Properties.Resources.resources
+I:\11feb\grn\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\bin\Debug\grn.exe
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\bin\Debug\grn.pdb
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.Form1.resources
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.Properties.Resources.resources
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.help.resources
+D:\drop\Dropbox\project2013\13feb\grn(perfect2)\grn\obj\x86\Debug\grn.black.resources
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.black.resources
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.Form1.resources
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.help.resources
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\grn.Properties.Resources.resources
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Smith\Desktop\grn(perfect2)\grn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Smith\Desktop\grn(perfect2)\grn\bin\Debug\grn.exe
+C:\Users\Smith\Desktop\grn(perfect2)\grn\bin\Debug\grn.pdb
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.pdb
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.black.resources
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.help.resources
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.Properties.Resources.resources
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe.config
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.ResolveComReference.cache
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.grnreprt.resources
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.Form2.resources
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\blank_db.mdf
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\blank_db_log.ldf
+D:\drop\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.grnform.resources
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe.config
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.ResolveComReference.cache
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.pdb
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.black.resources
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.grnform.resources
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.help.resources
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.Properties.Resources.resources
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache
+D:\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe.config
+D:\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.ResolveComReference.cache
+D:\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+D:\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\cmnall.exe
+G:\Users\onyx\Dropbox\project2013\2nd march\finally perfect grn\grn(perfect2)\grn\bin\Debug\cmnall.pdb
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe.config
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.ResolveComReference.cache
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.exe
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.pdb
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.exe
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\bin\Debug\grn.pdb
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\bin\Debug\cmnall.exe
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\bin\Debug\cmnall.pdb
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csprojResolveAssemblyReference.cache
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.black.resources
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.grnform.resources
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.help.resources
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.Properties.Resources.resources
+D:\ERP with my management\finally perfect grn\grn(perfect2)\grn\obj\x86\Debug\grn.csproj.GenerateResource.Cache

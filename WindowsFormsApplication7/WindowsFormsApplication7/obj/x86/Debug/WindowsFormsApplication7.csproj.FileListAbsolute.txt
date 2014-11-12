@@ -1,0 +1,34 @@
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+g:\users\onyx\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form3.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.black.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form4.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication5.master.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\masters.supplier.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Transitions.dll
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\printreports.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\printreports.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cmnall.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cmnall.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\masters.costcenter.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\masters.itemmaster.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\grn.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Indent.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\issue.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\purchase.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\grn.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Indent.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\issue.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\purchase.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cmnall2.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cmnall2.pdb
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb

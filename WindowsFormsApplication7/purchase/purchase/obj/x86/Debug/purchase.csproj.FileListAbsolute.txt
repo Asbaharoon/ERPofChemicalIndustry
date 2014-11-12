@@ -1,0 +1,63 @@
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\bin\Debug\purchase.exe.config
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\bin\Debug\purchase.exe
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\bin\Debug\purchase.pdb
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\purchase.Form1.resources
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\purchase.Properties.Resources.resources
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\purchase.exe
+c:\users\smith\documents\visual studio 2010\Projects\purchase\purchase\obj\x86\Debug\purchase.pdb
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.exe.config
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.exe
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.pdb
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.exe
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.pdb
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form1.resources
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Properties.Resources.resources
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.csproj.GenerateResource.Cache
+D:\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.exe.config
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.exe
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.pdb
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form2.resources
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.csprojResolveAssemblyReference.cache
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form3.resources
+D:\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.exe
+D:\Dropbox\project2013\25april\purchase\purchase\bin\Debug\purchase.pdb
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form1.resources
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form2.resources
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Form3.resources
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.Properties.Resources.resources
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.blackload.resources
+D:\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.mailpo.resources
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.blackload.resources
+G:\Users\onyx\Dropbox\project2013\25april\purchase\purchase\obj\x86\Debug\purchase.mailpo.resources
+D:\ERP with my management\purchase\purchase\bin\Debug\purchase.exe.config
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.exe
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.pdb
+D:\ERP with my management\purchase\purchase\bin\Debug\purchase.exe
+D:\ERP with my management\purchase\purchase\bin\Debug\purchase.pdb
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.blackload.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.mailpo.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.Form1.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.Form2.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.Form3.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.Properties.Resources.resources
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.csproj.GenerateResource.Cache
+D:\ERP with my management\purchase\purchase\bin\Debug\cmnall.exe
+D:\ERP with my management\purchase\purchase\bin\Debug\cmnall.pdb
+D:\ERP with my management\purchase\purchase\obj\x86\Debug\purchase.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\bin\Debug\purchase.exe.config
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.exe
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.pdb
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.blackload.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.mailpo.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.Form1.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.Form2.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.Form3.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.Properties.Resources.resources
+C:\Users\user\Desktop\source code\WindowsFormsApplication7\purchase\purchase\obj\x86\Debug\purchase.csproj.GenerateResource.Cache

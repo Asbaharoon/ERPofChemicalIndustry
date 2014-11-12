@@ -1,0 +1,65 @@
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\obj\x86\Debug\issue.Form1.resources
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\obj\x86\Debug\issue.Properties.Resources.resources
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\bin\Debug\issue.exe
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\bin\Debug\issue.pdb
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\obj\x86\Debug\issue.exe
+C:\Users\jEthvA\documents\visual studio 2010\Projects\issue\issue\obj\x86\Debug\issue.pdb
+C:\Users\jEthvA\Documents\Visual Studio 2010\Projects\issue\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.exe
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.pdb
+D:\drop\Dropbox\project2013\New folder\issue\issue\bin\Debug\issue.exe
+D:\drop\Dropbox\project2013\New folder\issue\issue\bin\Debug\issue.pdb
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.Form1.resources
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.Properties.Resources.resources
+D:\drop\Dropbox\project2013\New folder\issue\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.exe
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.pdb
+D:\drop\Dropbox\project2013\issue\issue\bin\Debug\issue.exe
+D:\drop\Dropbox\project2013\issue\issue\bin\Debug\issue.pdb
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.Form1.resources
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.Properties.Resources.resources
+D:\drop\Dropbox\project2013\issue\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+I:\issue\issue\obj\x86\Debug\issue.exe
+I:\issue\issue\obj\x86\Debug\issue.pdb
+E:\issue\issue\obj\x86\Debug\issue.exe
+E:\issue\issue\obj\x86\Debug\issue.pdb
+E:\issue\issue\bin\Debug\issue.exe
+E:\issue\issue\bin\Debug\issue.pdb
+E:\issue\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+E:\issue\issue\obj\x86\Debug\issue.Form1.resources
+E:\issue\issue\obj\x86\Debug\issue.Properties.Resources.resources
+E:\issue\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+E:\issue\issue\bin\Debug\issue.exe.config
+E:\issue\issue\obj\x86\Debug\issue.Form2.resources
+E:\issue1\issue\bin\Debug\issue.exe.config
+E:\issue1\issue\obj\x86\Debug\issue.exe
+E:\issue1\issue\obj\x86\Debug\issue.pdb
+E:\issue1\issue\bin\Debug\issue.exe
+E:\issue1\issue\bin\Debug\issue.pdb
+E:\issue1\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+E:\issue1\issue\obj\x86\Debug\issue.Form1.resources
+E:\issue1\issue\obj\x86\Debug\issue.Properties.Resources.resources
+E:\issue1\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\bin\Debug\issue.exe.config
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.exe
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.pdb
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\bin\Debug\issue.exe
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\bin\Debug\issue.pdb
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.Form1.resources
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.Properties.Resources.resources
+\\MEET\Users\jEthvA\Desktop\Report 2013\issue1\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+D:\ERP with my management\issue1\issue\bin\Debug\issue.exe.config
+D:\ERP with my management\issue1\issue\bin\Debug\issue.exe
+D:\ERP with my management\issue1\issue\bin\Debug\issue.pdb
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.Form1.resources
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.Properties.Resources.resources
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.csproj.GenerateResource.Cache
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.exe
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.pdb
+D:\ERP with my management\issue1\issue\bin\Debug\cmnall.exe
+D:\ERP with my management\issue1\issue\bin\Debug\cmnall.pdb
+D:\ERP with my management\issue1\issue\obj\x86\Debug\issue.csprojResolveAssemblyReference.cache

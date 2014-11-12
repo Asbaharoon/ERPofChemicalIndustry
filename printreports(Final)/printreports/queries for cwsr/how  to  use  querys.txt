@@ -1,0 +1,13 @@
+the  sequance  of  executing  querys  would  be  
+1)qry_1
+2)update_1
+3)qry_3
+above  set  of  qryis  will  be executed  2  times  to  genrate  tabels  rcpt1(report1) and  rcpt2(report2) 
+
+after  
+
+4)update_2 (do work on  both tables.......... only  one time execution  is  req.)
+5)qry_3
+6)update_3_cwsr_final
+
+our  ans is  ready  ..

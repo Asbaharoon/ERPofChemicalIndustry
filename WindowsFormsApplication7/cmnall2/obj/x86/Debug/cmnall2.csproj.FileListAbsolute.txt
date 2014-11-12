@@ -1,0 +1,6 @@
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\obj\x86\Debug\cmnall2.Properties.Resources.resources
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\obj\x86\Debug\cmnall2.csproj.GenerateResource.Cache
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\bin\Debug\cmnall2.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\bin\Debug\cmnall2.pdb
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\obj\x86\Debug\cmnall2.exe
+G:\Users\onyx\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\cmnall2\obj\x86\Debug\cmnall2.pdb

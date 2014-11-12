@@ -1,0 +1,19 @@
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\bin\Debug\cmnall.exe
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\bin\Debug\cmnall.pdb
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\obj\x86\Debug\cmnall.Properties.Resources.resources
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\obj\x86\Debug\cmnall.csproj.GenerateResource.Cache
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\obj\x86\Debug\cmnall.exe
+g:\users\onyx\documents\visual studio 2010\Projects\cmnall\cmnall\obj\x86\Debug\cmnall.pdb
+D:\ERP with my management\cmnall\cmnall\bin\Debug\cmnall.exe
+D:\ERP with my management\cmnall\cmnall\bin\Debug\cmnall.pdb
+D:\ERP with my management\cmnall\cmnall\obj\x86\Debug\cmnall.Properties.Resources.resources
+D:\ERP with my management\cmnall\cmnall\obj\x86\Debug\cmnall.csproj.GenerateResource.Cache
+D:\ERP with my management\cmnall\cmnall\obj\x86\Debug\cmnall.exe
+D:\ERP with my management\cmnall\cmnall\obj\x86\Debug\cmnall.pdb
+C:\Users\user\Desktop\source code\cmnall\cmnall\obj\x86\Debug\cmnall.exe
+C:\Users\user\Desktop\source code\cmnall\cmnall\obj\x86\Debug\cmnall.pdb
+C:\Users\user\Desktop\source code\cmnall\cmnall\bin\Debug\cmnall.exe
+C:\Users\user\Desktop\source code\cmnall\cmnall\bin\Debug\cmnall.pdb
+C:\Users\user\Desktop\source code\cmnall\cmnall\obj\x86\Debug\cmnall.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\source code\cmnall\cmnall\obj\x86\Debug\cmnall.Properties.Resources.resources
+C:\Users\user\Desktop\source code\cmnall\cmnall\obj\x86\Debug\cmnall.csproj.GenerateResource.Cache
